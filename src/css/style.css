@@ -1,0 +1,119 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-size: 1em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: lightgray;
+}
+#cabecalho{
+    background-color:#44576D;
+    margin: 0;
+    text-align: center;
+    padding: 30px;
+}
+.tecblog{
+    padding-bottom: 20px;
+}
+
+#cabecalho a:link, #cabecalho a:visited{
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    padding: 6px;
+}
+#cabecalho a:hover{
+    background-color: white;
+    color: #44576D;
+    border-radius: 10px;
+
+}
+
+#logo, menu{
+    padding: 10px;
+}
+
+h1{
+    font-size: 2.8em;
+    color: black;
+}
+
+.textoBranco{
+ color: white;
+}
+
+#feed{
+    width: 920px;
+    margin: auto;
+    margin-top: 10px;
+}
+#areaNoticia{
+    width: 660px;
+    float: left;
+}
+#areaLateral{
+    width: 240px;
+    float: right;
+}
+#rodape{
+    clear: both;
+    padding: 15px;
+    text-align: center;
+}
+
+.imgPostagem{
+    width: 640px;
+    border-radius: 15px;
+    padding-bottom: 10px;
+}
+.noticia{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: white;
+    border-radius: 15px;
+    margin-bottom: 25px;
+}
+h2{
+    color:#44576D;
+}
+
+.leiaMais{
+    color: #44576D;
+}
+
+.dataPostagem{
+    font-size: 0.8em;
+    border-bottom: #f4f4f4;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    display: block;
+}
+#noticiasRecentes{
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+h3{
+    background-color: #e6e6e6;
+    color: #2b2b2b;
+}
+
+#areaLateral a:link, a:visited{
+    color: #44576D;
+    text-decoration: none;
+
+}
+#menuLateral{
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    margin: bottom 20px;;
+}
+
+
+
+
